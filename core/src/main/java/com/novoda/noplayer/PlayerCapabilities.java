@@ -5,5 +5,4 @@ import com.novoda.noplayer.drm.DrmType;
 interface PlayerCapabilities {
 
     boolean supports(DrmType drmType);
-
 }
